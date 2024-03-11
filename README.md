@@ -12,6 +12,7 @@ Users can access SoundGenius through a user-friendly web interface. They input a
 Installation and Running:
 
 Ensure Python is installed on your machine.
+Download the spotify million song dataset on kaggle : https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset
 Install the required packages.
 Required Libraries:
 nltk
